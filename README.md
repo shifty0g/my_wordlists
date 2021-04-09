@@ -15,7 +15,7 @@ This is all the SQL wordlists in one. aimed to try an detect first then into oth
 
 ##### webapp/probe.txt
 
-This is a good one. its aimed at probing applications for common things. you will see its split into sections and has a flow to it allowing you to see how the app responsds. use 
+This is a good one. its aimed at probing applications for common things. you will see its split into sections and has a flow to it allowing you to see how the app responsds. use with Burp
 
 ##### passwords/easy-passwords_15k.txt
 Mainly a merge of all top password lists the usual suspect. Trying to keep it arond 15k so it can be quickly blasted to see if you get any hits. good for cracking hashes or bruteforcing ports that dont rate limit ya
