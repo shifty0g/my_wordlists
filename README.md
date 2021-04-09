@@ -13,6 +13,10 @@ This is a mush of looking for default content, vulns and look for juicy endpoint
 
 This is all the SQL wordlists in one. aimed to try an detect first then into other method. Best used with Burp to fuzz a parameter. If you notice it sticking or slowing down it may be sleeping so check the output 
 
+##### webapp/probe.txt
+
+This is a good one. its aimed at probing applications for common things. you will see its split into sections and has a flow to it allowing you to see how the app responsds. use 
+
 ##### passwords/easy-passwords_15k.txt
 Mainly a merge of all top password lists the usual suspect. Trying to keep it arond 15k so it can be quickly blasted to see if you get any hits. good for cracking hashes or bruteforcing ports that dont rate limit ya
 
