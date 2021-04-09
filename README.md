@@ -1,5 +1,6 @@
-# wordlists
+wordlists
 =======================================
+
 A collection of wordlists ive mushed together
 Nothing really special here alot is taken from common wordlists repos with some extra bit.
 
