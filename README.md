@@ -4,7 +4,7 @@ A collection of wordlists ive mushed together
 Nothing really special here alot is taken from common wordlists repos with some extra bit.
 
 
-#####/webapp
+##### /webapp
 
 **find-goodies_30k** - This is a mush of looking for default content, vulns and look for juicy endpoints - I have tried to organise this in a logical way but still get a bit of a mess. Trying to keep it at a 30k limit. Useful for a once over to identify any low hanging fruit. best used with tool like FFUF as the list doesnt have / at start annd includes extentions est so keep that in mind. this does have some junky strings in so filtering output will help alot
 
