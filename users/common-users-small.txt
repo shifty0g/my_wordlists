@@ -1,0 +1,15 @@
+root
+admin
+administrator
+guest
+user
+user1
+database
+backup
+ssh
+test
+testuser
+ubuntu
+support
+ftp
+demo

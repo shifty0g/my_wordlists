@@ -1,0 +1,9 @@
+mysql
+root
+admin
+guest
+asteriskuser
+cloudera
+dbuser
+mcUser
+moves

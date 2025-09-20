@@ -1,0 +1,15 @@
+postgres
+123
+admin
+amber
+passw0rd
+password
+tiger
+POSTGRES
+template1
+qwerty
+password1
+letmein
+
+	
+ 

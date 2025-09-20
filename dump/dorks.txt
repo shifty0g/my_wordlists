@@ -1,0 +1,2 @@
+intitle:"admin login"
+intext: admin credentials

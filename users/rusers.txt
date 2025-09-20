@@ -1,0 +1,11 @@
+root
+daemon
+bin
+nobody
++
+guest
+mail
+steve 
+backup
+backupadmin
+superuser

